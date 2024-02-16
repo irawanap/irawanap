@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Irawan Aji Pangestu**.<br>
 
-Saya seorang **Cloud Computing Student** di Bangkit Academy 2024 By Google, GoTo, Traveloka - Cloud Computing Learning Path.<br>
-
-Saya sedang menempuh Studi Independent di Magang Merdeka Kampus Merdeka 2024 Batch 1 .<br>
+Saya sedang menempuh Studi Independent di Magang Merdeka Kampus Merdeka 2024 Batch 1 **Cloud Computing Student** di Bangkit Academy 2024 By Google, GoTo, Traveloka - Cloud Computing Learning Path.<br>
 
 Saya mahasiswa Teknologi Informasi Universitas Brawijaya .<br>
 

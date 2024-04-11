@@ -24,21 +24,3 @@ Thank you for visiting my GitHub profile! Happy coding! 🚀
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-// Ganti dengan nama pengguna GitHub yang ingin Anda periksa keaktifannya
-const username = irawanap;
-
-// URL untuk mengambil data keaktifan pengguna dari API GitHub
-const url = `https://api.github.com/users/${irawanap}/events`;
-
-// Lakukan permintaan HTTP GET menggunakan fetch
-fetch(url)
-  .then(response => response.json())
-  .then(data => {
-    // Data keaktifan pengguna akan tersedia di dalam variabel data
-    console.log(data);
-    // Lakukan apa pun yang Anda inginkan dengan data keaktifan, seperti menampilkan di halaman web
-  })
-  .catch(error => {
-    console.error('Error:', error);
-  });

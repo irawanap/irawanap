@@ -1,21 +1,18 @@
 Welcome to My GitHub Profile!
-
-Hello there! 👋 Welcome to my GitHub profile. My name is Irawan Aji Pangestu. This README serves as a brief introduction to who I am and what you can find in my repositories.
-
 ## About Me
 
-I am a [mention your occupation or field of study] based in [mention your location]. With [mention years of experience or relevant background], I have developed a strong interest in [mention your interests or areas of expertise]. I am particularly fascinated by [mention specific topics or technologies].
+👋 Hello! I'm Irawan Aji Pangestu,
+🎓 I am part of the Cloud Computing cohort at Bangkit Academy 2024. This program has provided me with a deep understanding of cloud technology, programming, and relevant concepts in the IT industry.
+🏫 Currently, I am pursuing Associate Degree in Information Technology at Brawijaya University, where I am involved in various projects and academic activities that broaden my understanding of the technology world.
+💼 I am highly interested in pursuing a career in cloud engineering and digital business, where I can combine my technical knowledge of cloud infrastructure with a strong understanding of business strategy and digital innovation.
 
-In my free time, I enjoy [mention hobbies or activities]. I am also an avid learner and constantly seek new challenges and opportunities to expand my knowledge and skills.
+🚀 I am always eager to continue learning and developing my skills in the latest technologies, as well as contributing to projects that solve real-world problems and make a positive impact.
 
-Feel free to explore my repositories and check out the projects I've been working on. If you find anything interesting or have any feedback, I'd love to hear from you!
-
+Thank you for visiting my profile! 😊
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/irawanajipangestu/
-- Email: [Your Email Address]
-
-Don't hesitate to reach out if you have any questions, suggestions, or just want to connect. I'm always open to new opportunities and collaborations.
+- Email: irawanajhi22@gmail.com
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
 

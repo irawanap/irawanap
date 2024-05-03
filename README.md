@@ -6,15 +6,18 @@ Welcome to My GitHub Profile!
 I am a student at Brawijaya University currently pursuing a Diploma in Information Technology. I am also enrolled in the Campus Merdeka Learning Internship (MBKM) program at Bangkit Academy, specifically in the Cloud Computing 2024 batch 1 cohort. I have a strong interest in becoming a cloud engineer, as well as in web development, SEO, SEM, and digital marketing.
 
 
-### Social media: 📡  
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
-
-[![LinkedIn Badge]
+### Contact: 📡  
 
 - LinkedIn: https://www.linkedin.com/in/irawanajipangestu/
 - Email: irawanajhi22@gmail.com
 
 Thank you for visiting my GitHub profile! Happy coding! 🚀
+
+### Languages:
+| JS | nodejs |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|
+
 
 <p align="left">
 <a href="https://github.com/penuliscode">

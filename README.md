@@ -1,18 +1,15 @@
 Welcome to My GitHub Profile!
-## About Me
+### About Me: 
 
 👋 Hello! I'm Irawan Aji Pangestu,
 
-🎓 I am part of the Cloud Computing cohort at Bangkit Academy 2024. This program has provided me with a deep understanding of cloud technology, programming, and relevant concepts in the IT industry. 
+I am a student at Brawijaya University currently pursuing a Diploma in Information Technology. I am also enrolled in the Campus Merdeka Learning Internship (MBKM) program at Bangkit Academy, specifically in the Cloud Computing 2024 batch 1 cohort. I have a strong interest in becoming a cloud engineer, as well as in web development, SEO, SEM, and digital marketing.
 
-🏫 Currently, I am pursuing Associate Degree in Information Technology at Brawijaya University, where I am involved in various projects and academic activities that broaden my understanding of the technology world. 
 
-💼 I am highly interested in pursuing a career in cloud engineering and digital business, where I can combine my technical knowledge of cloud infrastructure with a strong understanding of business strategy and digital innovation. 
+### Social media: 📡  
+Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me.
 
-🚀 I am always eager to continue learning and developing my skills in the latest technologies, as well as contributing to projects that solve real-world problems and make a positive impact.
-
-Thank you for visiting my profile! 😊
-## Get in Touch
+[![LinkedIn Badge]
 
 - LinkedIn: https://www.linkedin.com/in/irawanajipangestu/
 - Email: irawanajhi22@gmail.com

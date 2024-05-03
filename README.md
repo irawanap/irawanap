@@ -17,6 +17,9 @@ Thank you for visiting my GitHub profile! Happy coding! 🚀
 
 ### Languages:
 
+
+| javascript | nodejs |
+|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|
 
 ### Testing:

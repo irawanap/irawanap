@@ -39,19 +39,9 @@
 </div>
 
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@master
-        with:
-          github_user_name: irawanap
-          svg_out_path: ./output/github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: "Update snake"
+<div align="center">
+
+  <!-- Snake Animation -->
+  ![GitHub Snake Animation](https://github.com/irawanap/irawanap/blob/output/github-contribution-grid-snake.svg)
+
+</div>

@@ -1,19 +1,11 @@
-Welcome to My GitHub Profile!
-### About Me: 
+# 👋 Hello, I'm Irawan A!
 
-👋 Hello! I'm Irawan Aji Pangestu,
+## 🔧 Technologies & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irawanap&layout=compact&theme=radical)
 
-I am a student at Brawijaya University currently pursuing a Diploma in Information Technology. I am also enrolled in the Campus Merdeka Learning Internship (MBKM) program at Bangkit Academy, specifically in the Cloud Computing 2024 batch 1 cohort. I have a strong interest in becoming a cloud engineer, as well as in web development, SEO, SEM, and digital marketing.
+## 📊 Weekly Development Breakdown
+<!-- WakaTime -->
+[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/@YOUR_ID)
 
-
-### Contact: 📡  
-
-- LinkedIn: https://www.linkedin.com/in/irawanajipangestu/
-- Email: irawanajhi22@gmail.com
-
-Thank you for visiting my GitHub profile! Happy coding! 🚀
-
----
-
-## 🛠️ My Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irawanap&layout=compact&theme=dark&hide_border=true)
+## 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/irawanajipangestu/)

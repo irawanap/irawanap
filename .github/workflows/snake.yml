@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Update setiap hari jam 00:00 UTC
+  workflow_dispatch:      # Memungkinkan trigger manual
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: ./assets/github-snake.svg
+          snake_color: 00FF00  # Warna hijau
+          empty_color: 000000  # Warna hitam untuk kotak kosong
+
+      - name: Push Animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update snake animation"
+          add: "./assets/github-snake.svg"

@@ -1,10 +1,8 @@
 <div align="center">
   
   <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&width=435&lines=Hello!;I'm+a+Web+Developer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
-
-</div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&width=435&lines=Hello!;I'm+a+Web+Developer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
+  </div>
   
   <!-- Animated Stats -->
   <div align="center">
@@ -35,13 +33,5 @@
   <p align="center"> 
     <img src="https://profile-counter.glitch.me/irawanap/count.svg" alt="Visitor Counter" /> 
   </p>
-
-</div>
-
-
-<div align="center">
-
-  <!-- Snake Animation -->
-  ![GitHub Snake Animation](https://github.com/irawanap/irawanap/blob/output/github-contribution-grid-snake.svg)
 
 </div>

@@ -1,11 +1,6 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7A3FF7&background=45FF8E00&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+irawanap;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation" />
-
-  <!-- Snake Game -->
-  ![Snake Game](https://github.com/irawanap/irawanap/blob/output/github-contribution-grid-snake.svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&width=435&lines=Hello+!;I'm+a+Developer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
   <!-- Animated Stats -->
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irawanap&show_icons=true&theme=radical&count_private=true&hide_border=true&animated=true" />

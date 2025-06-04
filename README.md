@@ -15,7 +15,7 @@
   <!-- Animated Skills -->
   <h3>🛠 Tech Stack</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,go,expressjs, nestjs, mysql,mongodb,firebase&theme=dark&animate=true" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,go, mysql,mongodb,firebase&theme=dark&animate=true" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,docker&theme=dark&animate=true" />
   </div>

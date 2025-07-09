@@ -15,9 +15,9 @@
 
   <!-- 🛠 Tech Stack -->
   <h3>🛠 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,go,mysql,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,js,react,nodejs,express,go,mysql,mongodb,firebase&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,docker&theme=dark" />
 
   <!-- 📫 Contact -->
   <h3>📫 Connect with Me</h3>
@@ -28,11 +28,6 @@
     <a href="mailto:irawanajhi22@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </p>
-
-  <!-- 👁️ Visitor Counter -->
-  <p>
-    <img src="https://profile-counter.glitch.me/irawanap/count.svg" alt="Visitor Count" />
   </p>
 
 </div>

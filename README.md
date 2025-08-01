@@ -9,12 +9,14 @@
 
   <!-- 📊 GitHub Stats -->
   <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irawanap&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irawanap&theme=radical&hide_border=true" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irawanap&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </div>
 
   <!-- 🛠 Tech Stack -->
   <h3>🛠 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=laravel,js,react,nodejs,express,go,mysql,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,js,react,nextjs,nodejs,express,go,mysql,mongodb,firebase,supabase&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,docker&theme=dark" />
 

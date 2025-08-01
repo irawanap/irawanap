@@ -9,7 +9,6 @@
 
   <!-- 📊 GitHub Stats -->
   <div align="center">
-    <img height="180em" src="![irawanap's GitHub stats](https://github-readme-stats.vercel.app/api?username=irawanap&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irawanap&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </div>
 
